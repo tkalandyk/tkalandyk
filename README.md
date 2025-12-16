@@ -1,19 +1,43 @@
-# <a href="https://www.linkedin.com/in/tywin-kalandyk-a68374309/">Tywin Kalandyk</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/tywin-kalandyk-a68374309/">Tywin Kalandyk</a>'s IT and Cybersecurity Project Portfolio
 
-I’m deeply focused on cybersecurity and enjoy breaking down complex problems through hands-on work. From vulnerability management to threat detection, these projects reflect real-world scenarios and practical learning. Feel free to check them out to see how I approach improving security operations and processes.
+I focus on cybersecurity through hands-on, practical projects that simulate real-world security operations. My work centers on vulnerability management, threat detection, and security monitoring, with an emphasis on understanding how attacks occur and how defenders identify, analyze, and respond to them.
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**  
+  - Identified and categorized system vulnerabilities using structured assessment methodologies  
+  - Prioritized remediation efforts based on risk, severity, and potential impact  
+  - Documented findings, remediation steps, and security improvements
 
-## 🚨 Threat Hunting and Security Operations
+- **[Programmatic Vulnerability Remediations (PowerShell and Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  - Automated vulnerability remediation tasks using PowerShell and Bash  
+  - Reduced manual intervention by scripting repeatable security actions  
+  - Improved consistency and efficiency in remediation workflows
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+## Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+  - Investigated suspicious activity related to anonymized network traffic  
+  - Analyzed logs to identify indicators of compromise  
+  - Documented findings and defensive response techniques
 
 <hr/>
 
-## 🔗 Connect With Me
+## Tools and Technologies
+
+- Microsoft Azure  
+- Microsoft Sentinel  
+- Microsoft Defender for Endpoint  
+- PowerShell  
+- Bash  
+- Windows  
+- Linux  
+- Log Analysis  
+- Threat Detection  
+- Vulnerability Management
+
+## Connect With Me
 
 [LinkedIn – Tywin Kalandyk](https://www.linkedin.com/in/tywin-kalandyk-a68374309/)
+
 
