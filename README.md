@@ -4,7 +4,7 @@ I focus on cybersecurity through hands-on, practical projects that simulate real
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**  
+- **[Vulnerability Management Program Implementation](https://github.com/tkalandyk/Vulnerability-Management-Program/tree/main)**  
   - Identified and categorized system vulnerabilities using structured assessment methodologies  
   - Prioritized remediation efforts based on risk, severity, and potential impact  
   - Documented findings, remediation steps, and security improvements
