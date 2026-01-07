@@ -38,12 +38,12 @@ I focus on cybersecurity through hands-on, practical projects that simulate real
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/tywin-kalandyk-a68374309/" target="_blank">
+<a href="https://www.linkedin.com/in/tywin-kalandyk" target="_blank">
   <img align="left" alt="LinkedIn" width="20px"
        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;
-[LinkedIn – Tywin Kalandyk](https://www.linkedin.com/in/tywin-kalandyk-a68374309/)
+[LinkedIn – Tywin Kalandyk](https://www.linkedin.com/in/tywin-kalandyk)
 
 
 
