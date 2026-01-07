@@ -16,7 +16,7 @@ I focus on cybersecurity through hands-on, practical projects that simulate real
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**  
   - Investigated suspicious activity related to anonymized network traffic  
   - Analyzed logs to identify indicators of compromise  
   - Documented findings and defensive response techniques
