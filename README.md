@@ -9,7 +9,7 @@ I focus on cybersecurity through hands-on, practical projects that simulate real
   - Prioritized remediation efforts based on risk, severity, and potential impact  
   - Documented findings, remediation steps, and security improvements
 
-- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**  
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/tkalandyk/STIG-Remediation-Documentation)**  
   - Automated vulnerability remediation tasks using PowerShell 
   - Reduced manual intervention by scripting repeatable security actions  
   - Improved consistency and efficiency in remediation workflows
