@@ -21,7 +21,6 @@
 </div>
 
 
-# <a href="https://www.linkedin.com/in/tywin-kalandyk-a68374309/">Tywin Kalandyk</a>'s IT and Cybersecurity Project Portfolio
 
 I focus on cybersecurity through hands-on practical experience and projects that simulate real-world security operations. My work centers on vulnerability management, threat detection, and security monitoring, with an emphasis on understanding how attacks occur and how defenders identify, analyze, and respond to them.
 
