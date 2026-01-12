@@ -77,29 +77,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vulnerability_Prioritization-33691E?&style=for-the-badge&logo=checkmarx&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Risk-Based_Remediation-558B2F?&style=for-the-badge&logo=bugcrowd&logoColor=white" />
-</div>
-
-### Security Automation & Scripting
-<div>
-    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security_Automation-455A64?&style=for-the-badge&logo=gear&logoColor=white" />
-</div>
-
-### Cloud & Platforms
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Log_Analytics-1565C0?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</div>
-
-### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FBC02D?&style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
+    <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_
 
 ## Connect With Me
 
