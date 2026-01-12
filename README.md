@@ -78,6 +78,10 @@ I focus on cybersecurity through hands-on practical experience and projects that
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_
+
+    ---
+    ## 🤳 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevinoparker)
     
 
 
