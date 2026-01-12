@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/tywin-kalandyk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.skool.com/agentic-ai-3504"><img width="100" height="30" alt="skool-logo-png_seeklogo-425793" src="https://github.com/user-attachments/assets/7a7ebe92-4d4a-4aa9-9872-265111d4b364" />
+   
 
 ![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
 
