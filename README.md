@@ -47,16 +47,24 @@ I focus on cybersecurity through hands-on practical experience and projects that
 ### Security Operations & Threat Detection
 <div>
     <img src="https://img.shields.io/badge/-Threat_Detection-8E24AA?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Log_Analysis-1565C0?&style=for-the-badge&logo=elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident_Investigation-283593?&style=for-the-badge&logo=opsgenie&logoColor=white" />
     <img src="https://img.shields.io/badge/-Threat_Hunting-4A148C?&style=for-the-badge&logo=datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Log_Analysis-1565C0?&style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK_Mapping-263238?&style=for-the-badge&logo=mitre&logoColor=white" />
 </div>
 
 ### SIEM & Detection Engineering
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KQL_Querying-512DA8?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Alert_Analysis-1A237E?&style=for-the-badge&logo=bell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Detection_Engineering-512DA8?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL_Rule_Creation-1A237E?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Alert_Tuning_&_Validation-283593?&style=for-the-badge&logo=bell&logoColor=white" />
+</div>
+
+### Incident Response
+<div>
+    <img src="https://img.shields.io/badge/-Incident_Response_Playbooks-00695C?&style=for-the-badge&logo=opsgenie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Timeline_Analysis-004D40?&style=for-the-badge&logo=clockify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Containment_&_Remediation-1B5E20?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
 ### Endpoint Security
@@ -68,16 +76,16 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Vulnerability_Identification-2E7D32?&style=for-the-badge&logo=bugcrowd&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Risk_Prioritization-33691E?&style=for-the-badge&logo=checkmarx&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Remediation_Tracking-558B2F?&style=for-the-badge&logo=asana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vulnerability_Prioritization-33691E?&style=for-the-badge&logo=checkmarx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Risk-Based_Remediation-558B2F?&style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </div>
 
 ### Security Automation & Scripting
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Automation_Workflows-455A64?&style=for-the-badge&logo=gear&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Automation-455A64?&style=for-the-badge&logo=gear&logoColor=white" />
 </div>
 
 ### Cloud & Platforms
