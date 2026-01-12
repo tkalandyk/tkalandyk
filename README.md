@@ -1,3 +1,27 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
+</h1>
+
+<h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     <a href="https://www.youtube.com/@AgenticAITradeSkool1"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
+    <a href="https://www.skool.com/agentic-ai-3504"><img width="100" height="30" alt="skool-logo-png_seeklogo-425793" src="https://github.com/user-attachments/assets/7a7ebe92-4d4a-4aa9-9872-265111d4b364" />
+
+![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
 # <a href="https://www.linkedin.com/in/tywin-kalandyk-a68374309/">Tywin Kalandyk</a>'s IT and Cybersecurity Project Portfolio
 
 I focus on cybersecurity through hands-on, practical projects that simulate real-world security operations. My work centers on vulnerability management, threat detection, and security monitoring, with an emphasis on understanding how attacks occur and how defenders identify, analyze, and respond to them.
