@@ -28,21 +28,15 @@ I focus on cybersecurity through hands-on practical experience and projects that
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/tkalandyk/Vulnerability-Management-Program/tree/main)**  
-  - Identified and categorized system vulnerabilities using structured assessment methodologies  
-  - Prioritized remediation efforts based on risk, severity, and potential impact  
-  - Documented findings, remediation steps, and security improvements
+ 
 
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/tkalandyk/STIG-Remediation-Documentation)**  
-  - Automated vulnerability remediation tasks using PowerShell 
-  - Reduced manual intervention by scripting repeatable security actions  
-  - Improved consistency and efficiency in remediation workflows
+  
 
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**  
-  - Investigated suspicious activity related to anonymized network traffic  
-  - Analyzed logs to identify indicators of compromise  
-  - Documented findings and defensive response techniques
+
 
 <hr/>
 
