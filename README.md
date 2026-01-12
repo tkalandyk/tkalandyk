@@ -82,14 +82,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/tywin-kalandyk" target="_blank">
-  <img align="left" alt="LinkedIn" width="20px"
-       
-</a>
-&nbsp;
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-[LinkedIn – Tywin Kalandyk](https://www.linkedin.com/in/tywin-kalandyk)
 
 
 
