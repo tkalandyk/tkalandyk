@@ -86,6 +86,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;
+
+
 [LinkedIn – Tywin Kalandyk](https://www.linkedin.com/in/tywin-kalandyk)
 
 
