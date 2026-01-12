@@ -80,6 +80,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
     <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_
     
 
+---
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tywin-kalandyk)
 
