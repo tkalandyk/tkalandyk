@@ -37,7 +37,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
 
-- - **[Threat Hunting: Externally exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt/tree/main)**  
+- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt/tree/main)**  
 
 
 <hr/>
