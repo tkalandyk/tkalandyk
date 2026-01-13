@@ -67,7 +67,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
     <img src="https://img.shields.io/badge/-Containment_&_Remediation-1B5E20?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
-### Endpoint Security
+### Endpoint & Identity Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Endpoint_Telemetry-263238?&style=for-the-badge&logo=windows&logoColor=white" />
