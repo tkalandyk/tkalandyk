@@ -37,7 +37,11 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
 
-- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt/tree/main)**  
+- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt/tree/main)**
+
+## Endpoint & Identity Security
+
+- **[Authentication Attack Analysis)](https://github.com/tkalandyk/authentication-attack-analysis)**
 
 
 <hr/>
@@ -67,7 +71,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
     <img src="https://img.shields.io/badge/-Containment_&_Remediation-1B5E20?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
-### Endpoint & Identity Security
+### Endpoint 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Endpoint_Telemetry-263238?&style=for-the-badge&logo=windows&logoColor=white" />
