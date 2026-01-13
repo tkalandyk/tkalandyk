@@ -41,7 +41,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 ## Endpoint & Identity Security
 
-- **[Authentication Attack Analysis)](https://github.com/tkalandyk/authentication-attack-analysis)**
+- **[Authentication Attack Analysis](https://github.com/tkalandyk/authentication-attack-analysis)**
 
 
 <hr/>
