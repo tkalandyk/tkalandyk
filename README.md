@@ -45,6 +45,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Authentication Attack Analysis](https://github.com/tkalandyk/authentication-attack-analysis)**
 
+- **[Investigation-PowerShell-Related-Alert-Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation/tree/main)**
+
 
 <hr/>
 
