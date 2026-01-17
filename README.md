@@ -31,7 +31,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 - **[Bank-Production-Windows-Hardening-Risk-Based-Vulnerability-Management](https://github.com/tkalandyk/Bank-Production-Windows-Hardening-Risk-Based-Vulnerability-Management)** 
 
 
-- **[Vulnerability Management Program Implementation](https://github.com/tkalandyk/Vulnerability-Management-Program/blob/main/README.md)**  
+- **[Vulnerability Management Program Implementation](https://github.com/tkalandyk/Vulnerability-Management-Program)**  
  
 
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/tkalandyk/STIG-Remediation-Documentation)**
