@@ -43,13 +43,13 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
 
-- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt/tree/main)**
+- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt)**
 
 ## Endpoint & Identity Security
 
 - **[Authentication Attack Analysis](https://github.com/tkalandyk/authentication-attack-analysis)**
 
-- **[Investigation-PowerShell-Related-Alert-Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation/tree/main)**
+- **[Investigation-PowerShell-Related-Alert-Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation)**
 
 
 <hr/>
