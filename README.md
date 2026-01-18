@@ -36,7 +36,9 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/tkalandyk/STIG-Remediation-Documentation)**
 
-- **[Azure NSG Attack Surface Reduction](https://github.com/tkalandyk/azure-nsg-attack-surface-reduction)**  
+- **[Azure NSG Attack Surface Reduction](https://github.com/tkalandyk/azure-nsg-attack-surface-reduction)**
+
+- **[Security-Awareness-Training](https://github.com/tkalandyk/Security-Awareness-Training)**
 
 
 ## Threat Hunting and Security Operations
