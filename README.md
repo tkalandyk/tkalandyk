@@ -40,6 +40,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Security-Awareness-Training](https://github.com/tkalandyk/Security-Awareness-Training)**
 
+- **[Interpreting-Authentication-Data-for-Leadership](https://github.com/tkalandyk/Interpreting-Authentication-Data-for-Leadership)**
+
 
 ## Threat Hunting and Security Operations
 
