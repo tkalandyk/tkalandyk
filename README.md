@@ -28,7 +28,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 ## Vulnerability Management Projects
 
 
-- **[Bank-Production-Windows-Hardening-Risk-Based-Vulnerability-Management](https://github.com/tkalandyk/Bank-Production-Windows-Hardening-Risk-Based-Vulnerability-Management)** 
+- **[Bank-Production Windows Hardening Risk Based Vulnerability Management](https://github.com/tkalandyk/Bank-Production-Windows-Hardening-Risk-Based-Vulnerability-Management)** 
 
 
 - **[Vulnerability Management Program Implementation](https://github.com/tkalandyk/Vulnerability-Management-Program)**  
@@ -38,9 +38,9 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Azure NSG Attack Surface Reduction](https://github.com/tkalandyk/azure-nsg-attack-surface-reduction)**
 
-- **[Security-Awareness-Training](https://github.com/tkalandyk/Security-Awareness-Training)**
+- **[Security Awareness Training](https://github.com/tkalandyk/Security-Awareness-Training)**
 
-- **[Interpreting-Authentication-Data-for-Leadership](https://github.com/tkalandyk/Interpreting-Authentication-Data-for-Leadership)**
+- **[Interpreting Authentication Data for Leadership](https://github.com/tkalandyk/Interpreting-Authentication-Data-for-Leadership)**
 
 
 ## Threat Hunting and Security Operations
@@ -53,7 +53,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Authentication Attack Analysis](https://github.com/tkalandyk/authentication-attack-analysis)**
 
-- **[Investigation-PowerShell-Related-Alert-Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation)**
+- **[Investigation PowerShell Related Alert Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation)**
   
 
   ## AI-Assisted Learning & Skill Development
