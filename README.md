@@ -58,7 +58,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
   ## AI-Assisted Learning & Skill Development
  
-- **[Engineering-a-High-Leverage-Learning-System-for-Security-](https://github.com/tkalandyk/Engineering-a-High-Leverage-Learning-System-for-Security-)**
+- **[Engineering a High Leverage Learning System for Security](https://github.com/tkalandyk/Engineering-a-High-Leverage-Learning-System-for-Security-)**
 
 <hr/>
 
