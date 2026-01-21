@@ -50,6 +50,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
 
+- **[Turning Azure Security Telemetry into Executive Ready Insights)](https://github.com/tkalandyk/Turning-Azure-Security-Telemetry-into-Executive-Ready-Insights)**
+
 - **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt)**
 
 ## Endpoint & Identity Security
