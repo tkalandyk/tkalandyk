@@ -42,6 +42,9 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Interpreting Authentication Data for Leadership](https://github.com/tkalandyk/Interpreting-Authentication-Data-for-Leadership)**
 
+- **[Tenable Vulnerability Management Lab](https://github.com/tkalandyk/tenable-vulnerability-management-lab)**
+
+
 
 ## Threat Hunting and Security Operations
 
