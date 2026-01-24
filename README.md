@@ -60,6 +60,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Investigation PowerShell Related Alert Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation)**
   
+- **[Isolating a Virtual Machine Using Microsoft Defender](https://github.com/tkalandyk/Isolating-a-Virtual-Machine-Using-Microsoft-Defender)**
+  
 
   ## AI-Assisted Learning & Skill Development
  
