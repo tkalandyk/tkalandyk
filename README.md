@@ -58,6 +58,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Authentication Attack Analysis](https://github.com/tkalandyk/authentication-attack-analysis)**
 
+- **[Endpoint Detection and Automated Containment](https://github.com/tkalandyk/Endpoint-Detection-and-Automated-Containment)**
+
 - **[Investigation PowerShell Related Alert Validation](https://github.com/tkalandyk/Investigation-PowerShell-Related-Alert-Validation)**
   
 - **[Isolating a Virtual Machine Using Microsoft Defender](https://github.com/tkalandyk/Isolating-a-Virtual-Machine-Using-Microsoft-Defender)**
