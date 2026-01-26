@@ -69,7 +69,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
  
 - **[Engineering a High Leverage Learning System for Security](https://github.com/tkalandyk/Engineering-a-High-Leverage-Learning-System-for-Security-)**
 
--  **[Agentic AI Threat Hunting in Azure Log Analytics](https://github.com/tkalandyk/Agentic-AI-Threat-Hunting-in-Azure-Log-Analytics)**
+-  **[Agentic AI Threat Hunting in Azure Log Analytics#1](https://github.com/tkalandyk/Agentic-AI-Threat-Hunting-in-Azure-Log-Analytics)**
 
 <hr/>
 
