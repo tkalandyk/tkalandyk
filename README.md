@@ -44,7 +44,7 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 - **[Tenable Vulnerability Management Lab](https://github.com/tkalandyk/tenable-vulnerability-management-lab)**
 
-- - **[Developer Endpoint Risk Assessment](https://github.com/tkalandyk/Developer-Endpoint-Risk-Assessment)**
+-  **[Developer Endpoint Risk Assessment](https://github.com/tkalandyk/Developer-Endpoint-Risk-Assessment)**
 
 
 
