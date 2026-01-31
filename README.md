@@ -71,6 +71,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
   ## AI-Assisted Learning & Skill Development
 
+   - **[Agentic AI Security Automation](https://github.com/tkalandyk/Agentic-AI-Security-Automation-)**
+
   - **[Streamlining Vulnerability Remediation with Agentic AI](https://github.com/tkalandyk/Streamlining-Vulnerability-Remediation-with-Agentic-AI)**
 
   - **[Security+ Agent Interactive Practice Exam](https://github.com/tkalandyk/Security-Agent-Interactive-Practice-Exam-)**
