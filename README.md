@@ -84,6 +84,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 -  **[Agentic AI Threat Hunting in Azure Log Analytics](https://github.com/tkalandyk/Agentic-AI-Threat-Hunting-in-Azure-Log-Analytics)**
 
 -  **[Agentic AI Working With Azure & Slack](https://github.com/tkalandyk/Agentic-AI-Working-With-Azure-Slack)**
+   
+-  **[AI-Assisted Phishing Awareness & Compliance Portal](https://github.com/tkalandyk/AI-Assisted-Phishing-Awareness-Compliance-Portal-)**
 
 <hr/>
 
