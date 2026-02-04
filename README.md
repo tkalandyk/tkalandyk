@@ -87,6 +87,9 @@ I focus on cybersecurity through hands-on practical experience and projects that
    
 -  **[AI-Assisted Phishing Awareness & Compliance Portal](https://github.com/tkalandyk/AI-Assisted-Phishing-Awareness-Compliance-Portal-)**
 
+-  **[ATS style resume scoring tool](https://github.com/tkalandyk/ATS-style-resume-scoring-tool)**
+
+
 <hr/>
 
 <h2>🧰 Tools:</h2>
