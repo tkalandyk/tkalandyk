@@ -48,7 +48,10 @@ I focus on cybersecurity through hands-on practical experience and projects that
   
 
 ## GRC Engineer Projects
+
 - **[AWS-GRC Automated IAM Audit Pipeline)](https://github.com/tkalandyk/GRC-Automated-IAM-Audit-Pipeline-)**
+
+- **[AWS Automated GRC: Password Policy Verifier)](https://github.com/tkalandyk/AWS-Automated-GRC-Password-Policy-Verifier)**
 
 - **[AWS Automated Access Review)](https://github.com/tkalandyk/AWS-Automated-Access-Review)**
   
