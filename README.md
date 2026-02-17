@@ -49,24 +49,24 @@ I focus on cybersecurity through hands-on practical experience and projects that
 
 ## GRC Engineer Projects
 
-- **[AWS Cloud Encryption Evidence)](https://github.com/tkalandyk/AWS-Cloud-Encryption-Evidence)**
+- **[AWS Cloud Encryption Evidence](https://github.com/tkalandyk/AWS-Cloud-Encryption-Evidence)**
 
-- **[AWS Inactive Key Rotation Check)](https://github.com/tkalandyk/AWS-Inactive-Key-Rotation-Check)**
+- **[AWS Inactive Key Rotation Check](https://github.com/tkalandyk/AWS-Inactive-Key-Rotation-Check)**
 
-- **[AWS-GRC Automated IAM Audit Pipeline)](https://github.com/tkalandyk/GRC-Automated-IAM-Audit-Pipeline-)**
+- **[AWS-GRC Automated IAM Audit Pipeline](https://github.com/tkalandyk/GRC-Automated-IAM-Audit-Pipeline)**
 
-- **[AWS Automated GRC: Password Policy Verifier)](https://github.com/tkalandyk/AWS-Automated-GRC-Password-Policy-Verifier)**
+- **[AWS Automated GRC: Password Policy Verifier](https://github.com/tkalandyk/AWS-Automated-GRC-Password-Policy-Verifier)**
 
-- **[AWS Automated Access Review)](https://github.com/tkalandyk/AWS-Automated-Access-Review)**
+- **[AWS Automated Access Review](https://github.com/tkalandyk/AWS-Automated-Access-Review)**
   
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
+- **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/tkalandyk/threat-hunting-scenario-tor-)**
 
-- **[Turning Azure Security Telemetry into Executive Ready Insights)](https://github.com/tkalandyk/Turning-Azure-Security-Telemetry-into-Executive-Ready-Insights)**
+- **[Turning Azure Security Telemetry into Executive Ready Insights](https://github.com/tkalandyk/Turning-Azure-Security-Telemetry-into-Executive-Ready-Insights)**
 
-- **[Threat Hunting: Externally Exposed RDP)](https://github.com/tkalandyk/port-of-entry-threat-hunt)**
+- **[Threat Hunting: Externally Exposed RDP](https://github.com/tkalandyk/port-of-entry-threat-hunt)**
 
 ## Endpoint & Identity Security
 
