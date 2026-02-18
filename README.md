@@ -50,6 +50,8 @@ I focus on cybersecurity through hands-on practical experience and projects that
 ## GRC Engineer Projects
 
 - **[AWS Cloud Encryption Evidence](https://github.com/tkalandyk/AWS-Cloud-Encryption-Evidence)**
+ 
+- **[AWS Least Privilege Policy Analyzer](https://github.com/tkalandyk/AWS-Least-Privilege-Policy-Analyzer)**
 
 - **[AWS Inactive Key Rotation Check](https://github.com/tkalandyk/AWS-Inactive-Key-Rotation-Check)**
 
